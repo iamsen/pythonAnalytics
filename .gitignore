@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+
 .idea/
 *.iml
-=======
+.ipynb_checkpoints/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -59,4 +62,3 @@ docs/_build/
 
 # PyBuilder
 target/
->>>>>>> fea75532d17e7a5a87eab0b492ba35b05710d62f
